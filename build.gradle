@@ -48,6 +48,7 @@ sonarqube {
     property "sonar.projectKey", "graciela1599_pokemon_2.0"
     property "sonar.organization", "graciela1599"
     property "sonar.host.url", "https://sonarcloud.io"
+    property "SONAR.TOKEN", "35d71338382c539daa908da0e0b4b9efc42ad80d"
   }
 }
 bootJar {
